@@ -1,0 +1,6 @@
+{
+  "source": "C:\\Users\\nikko\\Desktop\\Music\\Music",
+  "destination": "F:/",
+  "ignored_extensions": [".tmp", ".log", ".ini", ".bat", ".mp4"],
+  "delete_extraneous_files": false
+}
